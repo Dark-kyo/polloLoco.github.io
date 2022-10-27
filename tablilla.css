@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(177, 192, 65);
+    color: rgb(14, 46, 74);
+}
+
+table, th, td{
+    border: 3px solid rgb(214, 189, 189);
+    border-collapse: collapse;
+    width: 80%;
+   }
+   th, td{
+       padding: 10px 20px 30px 40px ;
+       
+   }
+   .fondo1{
+       background-color: rgb(255, 153, 127);
+   }
+   .fondo2{
+       background-color: rgb(225, 255, 127);
+   }
+ .letras{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+tr:nth-child(even) {
+    background-color: #2f7777;
+  }
+
+  .tabla1{
+    border: 3px solid rgb(17, 1, 1)
+
+  }
+  .foto{
+    
+  width: auto;
+  }
